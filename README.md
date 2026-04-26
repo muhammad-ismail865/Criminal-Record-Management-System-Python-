@@ -117,5 +117,3 @@ A menu is displayed to the user:
    python filename.py
 
 3. Follow the menu instructions
-
-If you want, I can next help you turn this into a **professional-level project (with file saving + GUI)** which is much stronger for GitHub and internships.
